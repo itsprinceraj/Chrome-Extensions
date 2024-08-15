@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  width: 200px;
+  border-radius: 5px;
+  color: rgb(53, 201, 53);
+  background-color: #011638;
+}
+#timer {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 1em;
+  border-radius: 5px;
+  border: 1px solid rgb(121, 120, 120);
+  background-color: yellow;
+  color: black;
+  cursor: pointer;
+}
+
+button:hover {
+  color: white;
+  background-color: black;
+  transition: all, 200ms, ease-in;
+}
