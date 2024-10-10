@@ -20,7 +20,7 @@ This lightweight extension helps you boost your productivity using the Pomodoro 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/pomodoro-timer-extension.git
+   git clone https://github.com/itsprinceraj/Chrome-Extensions.git
    ```
 
 2. Open **Chrome** and go to `chrome://extensions/`.
